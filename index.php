@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>�ӱ���ѧ</title>
+<title>河北大学</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -91,12 +91,12 @@
 		 </div>
 		             <nav class="top-nav">
 						<ul class="top-nav">
-							<li class="active"><a href="index.php">��ҳ <span> </span></a></li>
-							<li class="page-scroll"><a href="speciesSearch.php">���ּ���<span> </span></a></li>
-							<li class="page-scroll"><a href="classificationIdentify.php">�������<span> </span></a></li>
-							<li class="page-scroll"><a href="fileDownload.php">�ļ����� <span> </span></a></li>
-							<li class="page-scroll"><a href="message.php">���԰�<span> </span></a></li>
-							<li class="page-scroll"><a href="about.php">��������<span> </span></a></li>
+							<li class="active"><a href="index.php">首页 <span> </span></a></li>
+							<li class="page-scroll"><a href="speciesSearch.php">物种检索<span> </span></a></li>
+							<li class="page-scroll"><a href="classificationIdentify.php">分类鉴定<span> </span></a></li>
+							<li class="page-scroll"><a href="fileDownload.php">文件下载 <span> </span></a></li>
+							<li class="page-scroll"><a href="message.php">留言板<span> </span></a></li>
+							<li class="page-scroll"><a href="about.php">关于我们<span> </span></a></li>
 						</ul>
 						<a href="#" id="pull"><img src="images/nav-icon.png" title="menu" /></a>
 					</nav>			
@@ -110,8 +110,8 @@
 				   <article style="position: absolute; width: 100%; opacity: 0;"> 
 				   	 <div class="banner-wrap">
 				   		 <div class="slider-left">
-						    <h1>�ֲ�ͼ1</h1>
-							<p class="top">�ֲ�ͼ1���</p>
+						    <h1>轮播图1</h1>
+							<p class="top">轮播图1简介</p>
 						 </div>
 					   	 <div class="slider-right">
 							 <img src="images/one.jpg" alt=""/> 
@@ -122,8 +122,8 @@
 				   <article style="position: relative; width: 100%; opacity: 1;"> 
 				   	 <div class="banner-wrap">
 				   		 <div class="slider-left">
-                             <h1>�ֲ�ͼ2</h1>
-                             <p class="top">�ֲ�ͼ2���</p>
+                             <h1>轮播图2</h1>
+                             <p class="top">轮播图2简介</p>
 						 </div>
 					   	 <div class="slider-right">
 							 <img src="images/one.jpg" alt=""/> 
@@ -134,8 +134,8 @@
 				   <article style="position: absolute; width: 100%; opacity: 0;">
 				   	 <div class="banner-wrap">
 				   		 <div class="slider-left">
-                             <h1>�ֲ�ͼ3</h1>
-                             <p class="top">�ֲ�ͼ3���</p>
+                             <h1>轮播图3</h1>
+                             <p class="top">轮播图3简介</p>
 						 </div>
 					   	 <div class="slider-right">
 							 <img src="images/one.jpg" alt=""/> 
@@ -146,8 +146,8 @@
 				   <article style="position: absolute; width: 100%; opacity: 0;">
 				   	<div class="banner-wrap">
 				   		 <div class="slider-left">
-                             <h1>�ֲ�ͼ4</h1>
-                             <p class="top">�ֲ�ͼ4���</p>
+                             <h1>轮播图4</h1>
+                             <p class="top">轮播图4简介</p>
 						 </div>
 					   	 <div class="slider-right">
 							 <img src="images/one.jpg" alt=""/> 
@@ -173,10 +173,10 @@
       	<div class="content-top" id="fea">
       		<div class="container">
                 <div class="row feature">
-      				<h3 class="m_4">ʵ���Ҽ��</h3>
+      				<h3 class="m_4">实验室简介</h3>
       				<div class="col-md-8 feature_top">
-      					<h3>���1</h3>
-      					<p>��ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ�����ϸ���</p>
+      					<h3>简介1</h3>
+      					<p>详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介详细简介</p>
       				</div>
       				<div class="col-md-4 feature_img">
       					<img src="images/world.png" class="img-responsive" alt=""/>
@@ -187,43 +187,43 @@
       	<!----- start-gallery----->
 		<div id="screen" class="work">
 			<div class="container">
-				<h2 class="m_1">ʵ���ҳɹ�չʾ�������</h2>
-      			<p class="m_2">��ϸ������ϸ������ϸ������ϸ������ϸ������ϸ������ϸ����<br>��ϸ������ϸ������ϸ������ϸ������ϸ������ϸ������ϸ����</p>
+				<h2 class="m_1">实验室成果展示或课题简介</h2>
+      			<p class="m_2">详细描述详细描述详细描述详细描述详细描述详细描述详细描述<br>详细描述详细描述详细描述详细描述详细描述详细描述详细描述</p>
 			</div>
 			       <div id="owl-demo3" class="owl-carousel owl-carousel2">
 				                <div class="item">
 				                	<img class="lazyOwl" data-src="images/s1.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                </div>
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s2.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ </span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目 </span><br><span class="g-title1">图片描述</span></p>
 				                </div>
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s3.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></span></p>
 				                </div>
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s4.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                </div>
 				                
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s5.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                </div>
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s6.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                </div>
 				                 <div class="item">
 				                	<img class="lazyOwl" data-src="images/s1.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                	<div class="clearfix"> </div>
 				                </div>
 				                <div class="item">
 				                	<img class="lazyOwl" data-src="images/s2.jpg" alt="Lazy Owl Image">
-				                	<p class="img_slider"><span class="g-title">ͼƬ��Ŀ</span><br><span class="g-title1">ͼƬ����</span></p>
+				                	<p class="img_slider"><span class="g-title">图片题目</span><br><span class="g-title1">图片描述</span></p>
 				                	<div class="clearfix"> </div>
 				                </div>
 				                <div class="clearfix"> </div>
@@ -234,7 +234,7 @@
 	   	<div class="container">
 	   		<div class="footer_bottom">
 		   		<div class="copy">
-			        <p>Copyright &copy; 2018. All rights reserved. �ɺӱ���ѧ����ռ䰲ȫ������ѧԺ�ۺӹ������ṩ����֧��</p>
+			        <p>Copyright &copy; 2018. All rights reserved. 由河北大学网络空间安全与计算机学院慧河工作室提供技术支持</p>
 			    </div>
 		       <div class="clearfix"> </div>
 		    </div>
